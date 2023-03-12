@@ -80,6 +80,7 @@ h2 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin:0 auto 50px auto;
 }
+
 .stuff-item a {
     display:flex;
     flex-direction: column;
@@ -91,7 +92,7 @@ h2 {
     height:200px;
     background-color:#EEE;
     border-radius:5px;
-    box-shadow:0px 10px 50px rgba(0, 0, 0, 0.2);
+    box-shadow:0px 10px 50px rgba(225, 10, 10, 0.2);
 }
 
 .stuff-item-img:hover {
@@ -99,7 +100,7 @@ h2 {
     height:200px;
     background-color:#fff;
     border-radius:5px;
-    box-shadow:0px 10px 50px rgba(0, 0, 0, 0.2);
+    box-shadow:0px 10px 50px rgb(238, 158, 61);
 }
 .stuff-item-img img {
     width:80%;
