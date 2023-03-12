@@ -137,7 +137,7 @@ h2 {
     right:0;
     background-color:rgba(255, 255, 255, 0.5);
     display:none;
-    transition: all ease .5s;
+    transition: all ease 2s;
     justify-content: center;
     align-items: center;
     overflow-y:auto;
@@ -150,19 +150,19 @@ h2 {
     display:flex;
     margin:20px 0px;
 }
-.default {
+.default-image {
     flex:1;
     display:flex;
     justify-content: center;
     align-items: center;
 }
-.default-back {
+.default-image-back {
     position:absolute;
     width:30px;
     height:30px;
     background-color:#000;
 }
-.default img {
+.default-image img {
     height:400px;
     width:auto;
 }
@@ -174,7 +174,7 @@ h2 {
 .stuff-info h1 {
     margin-top:50px;
 }
-.stuff-info .stuff-info-disc {
+.stuff-info .stuff-info-desc {
     font-size:15px;
     color:#999;
     margin-top:10px;
@@ -395,7 +395,7 @@ h2 {
         margin:0;
     }
 
-    .default img {
+    .default-image img {
         width: 75%;
         height: auto;
     }

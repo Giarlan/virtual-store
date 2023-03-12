@@ -7,6 +7,5 @@ let stuffJson = [
     {id:6, name:'Bermuda', img:'assets/images/img6.png', price:56.50, sizes:['P', 'M', 'G'], description:'Bermuda masculina na cor bege'},
     {id:7, name:'Minissaia', img:'assets/images/img7.png', price:72.00, sizes:['P', 'M', 'G'], description:'Saia com cinto de couro sintético cor de abóbora'},
     {id:8, name:'Camisa', img:'assets/images/img8.png', price:59.90, sizes:['P', 'M', 'G'], description:'Camisa Pollo masculina lilás'},
-    {id:9, name:'Camiseta', img:'assets/images/img9.png', price:56.90, sizes:['P', 'M', 'G'], description:'Camiseta Pollo feminina vermelha'}
-
+    {id:9, name:'Camiseta', img:'assets/images/img9.png', price:56.90, sizes:['P', 'M', 'G'], description:'Camiseta Pollo feminina vermelha'},
 ];
